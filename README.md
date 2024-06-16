@@ -1,0 +1,1 @@
+ECDSA Zero-Knowledge Proof: Verifies the authenticity of messages without exposing the original message, ensuring non-repudiation and integrity.
